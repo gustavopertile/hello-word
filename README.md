@@ -1,2 +1,3 @@
 # hello-word
-Starting use github
+
+Hello! I’m studying programming since this year. I’m very impressive with this world, that's magical! 
